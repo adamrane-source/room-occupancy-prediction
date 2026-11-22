@@ -1,5 +1,3 @@
-# room-occupancy-prediction
-comparing logistic regression and random forest for a room occupancy detection
 # Room Occupancy Prediction
 
 This project compares Logistic Regression and Random Forest to predict
